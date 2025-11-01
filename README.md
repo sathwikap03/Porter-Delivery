@@ -8,8 +8,7 @@ The goal is to generate **data-driven insights** that help optimize delivery spe
 The analysis was performed entirely in **Microsoft Excel**, using **formulas**, **PivotTables**, **charts**, and **interactive dashboards** with slicers and timelines.
 
 ## Dataset
-**File:** Delivery_Performance_Dashboard.xlsx  
-**Source:** Simulated delivery operations dataset  
+**File:** https://drive.google.com/file/d/1DYO3z7Q9hauN25sMe8kgmdlgxGYixLCg/view?usp=sharing 
 
 ### Description:
 The dataset includes order and delivery information such as:
